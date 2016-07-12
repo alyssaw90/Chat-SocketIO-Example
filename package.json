@@ -1,0 +1,23 @@
+{
+  "name": "chat-socketio-example",
+  "version": "1.0.0",
+  "description": "Socket IO Chat Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyssaw90/Chat-SocketIO-Example.git"
+  },
+  "author": "Alyssa Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyssaw90/Chat-SocketIO-Example/issues"
+  },
+  "homepage": "https://github.com/alyssaw90/Chat-SocketIO-Example#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
